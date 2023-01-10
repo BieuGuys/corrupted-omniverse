@@ -1,0 +1,266 @@
+{
+	"song": {
+		"events": [
+			[
+				740.740740740741,
+				[
+					[
+						"lyrics",
+						"H E L P",
+						""
+					]
+				]
+			],
+			[
+				1203.7037037037,
+				[
+					[
+						"lyrics",
+						"M E",
+						""
+					]
+				]
+			],
+			[
+				1481.48148148148,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				11944.4444444444,
+				[
+					[
+						"Play Animation",
+						"transform0",
+						""
+					]
+				]
+			],
+			[
+				12129.6296296296,
+				[
+					[
+						"Play Animation",
+						"transform0",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				12407.4074074074,
+				[
+					[
+						"Play Animation",
+						"transform0",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				13148.1481481481,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				13240.7407407407,
+				[
+					[
+						"Image Flash",
+						"benscare",
+						"0.6"
+					]
+				]
+			],
+			[
+				15648.1481481481,
+				[
+					[
+						"Set Cam Zoom",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				16296.2962962963,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						"20"
+					]
+				]
+			],
+			[
+				24629.6296296296,
+				[
+					[
+						"Play Animation",
+						"transform2",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				25185.1851851852,
+				[
+					[
+						"Change Character",
+						"dad",
+						"fourarms"
+					]
+				]
+			],
+			[
+				32500,
+				[
+					[
+						"Play Animation",
+						"detransform",
+						"fourarms"
+					]
+				]
+			],
+			[
+				32592.5925925926,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				35925.9259259259,
+				[
+					[
+						"Camera Follow Pos",
+						"500",
+						"350"
+					]
+				]
+			],
+			[
+				36388.8888888889,
+				[
+					[
+						"Play Animation",
+						"transform2",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				37037.037037037,
+				[
+					[
+						"Change Character",
+						"1",
+						"feedback"
+					]
+				]
+			],
+			[
+				37129.6296296296,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54722.2222222222,
+				[
+					[
+						"Play Animation",
+						"detransform",
+						"feedback"
+					]
+				]
+			],
+			[
+				54814.8148148148,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				65000,
+				[
+					[
+						"Play Animation",
+						"transform2",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				65277.7777777778,
+				[
+					[
+						"Change Character",
+						"dad",
+						"heatblast"
+					]
+				]
+			],
+			[
+				94629.6296296295,
+				[
+					[
+						"Play Animation",
+						"detransform",
+						"heatblast"
+					]
+				]
+			],
+			[
+				94814.8148148147,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ben-ov"
+					]
+				]
+			],
+			[
+				96203.7037037036,
+				[
+					[
+						"Flash Camera Green",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				96296.2962962962,
+				[
+					[
+						"Change Character",
+						"dad",
+						"reboot-ben"
+					]
+				]
+			]
+		]
+	}
+}
