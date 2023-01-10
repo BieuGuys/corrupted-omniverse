@@ -1,0 +1,94 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "mrsmoothy",
+		"player1": "bf-spring",
+		"player2": "MORBIUS",
+		"player3": null,
+		"events": [
+			[
+				1818.18181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						""
+					]
+				]
+			],
+			[
+				5818.18181818182,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				34909.0909090909,
+				[
+					[
+						"Play Animation",
+						"transform0",
+						"ben-ov"
+					],
+					[
+						"Add Camera Zoom",
+						"0.019",
+						"0.05"
+					]
+				]
+			],
+			[
+				36363.6363636364,
+				[
+					[
+						"Screen Shake",
+						"1.6, 0.03",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				48000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.015",
+						""
+					]
+				]
+			],
+			[
+				50909.0909090909,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-pixel",
+		"bpm": 165,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Morbius Destruction"
+	}
+}
