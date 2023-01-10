@@ -1,0 +1,35 @@
+{
+	"storyName": "omniversal threat",
+	"difficulties": "Hard, Hero",
+	"hideFreeplay": false,
+	"weekBackground": "smooth",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Hero Destruction",
+			"ben-ov",
+			[
+				120,
+				193,
+				0
+			]
+		],
+		[
+			"Race Against Time",
+			"ben-ov",
+			[
+				106,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"ben",
+		""
+	],
+	"weekName": "VS Omniverse Ben"
+}

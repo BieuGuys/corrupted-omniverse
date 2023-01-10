@@ -1,0 +1,32 @@
+{
+	"storyName": "showdown of wrist watches",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"quadruple omnitrixies",
+			"ben-reboot",
+			[
+				26,
+				93,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Quadriple Omnitrixies"
+}

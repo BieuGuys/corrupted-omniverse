@@ -1,0 +1,32 @@
+{
+	"storyName": "morbniversal threat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Morbius Destruction",
+			"jared",
+			[
+				20,
+				80,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "VSJARED LETO HOLY SHIT",
+	"hiddenUntilUnlocked": false
+}

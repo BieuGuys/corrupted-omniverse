@@ -1,0 +1,32 @@
+{
+	"storyName": "ultimate threat",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "alienforce",
+	"weekBefore": "weekben",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Null Hero",
+			"uafben1",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"muafben",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "VS UAF Ben"
+}

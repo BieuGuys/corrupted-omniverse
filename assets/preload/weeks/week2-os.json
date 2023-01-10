@@ -1,0 +1,41 @@
+{
+	"storyName": "back to the classics",
+	"difficulties": "Hard, Hard-Utau",
+	"hideFreeplay": false,
+	"weekBackground": "bridge",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Its Hero Time",
+			"ben-os",
+			[
+				40,
+				75,
+				20
+			]
+		],
+		[
+			"Upgraded",
+			"ben-os",
+			[
+				60,
+				20,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"benos",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "VS Classic Ben"
+}

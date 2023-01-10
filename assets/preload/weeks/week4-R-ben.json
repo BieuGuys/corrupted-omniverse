@@ -1,0 +1,32 @@
+{
+	"storyName": "end of an era",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "reboot",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Downgraded",
+			"ben-reboot",
+			[
+				26,
+				93,
+				55
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"mrebootben",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "VS Reboot ben"
+}
