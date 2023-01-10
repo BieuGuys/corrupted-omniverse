@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BENOS.png"><SubTexture name="M BENOS Idle0000" x="0" y="0" width="421" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS Idle0001" x="421" y="0" width="420" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS Idle0002" x="420" y="987" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0000" x="841" y="0" width="421" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0001" x="1262" y="0" width="420" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0002" x="838" y="987" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0003" x="1682" y="0" width="421" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0004" x="0" y="987" width="420" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BENOS eyeglow0005" x="1256" y="987" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

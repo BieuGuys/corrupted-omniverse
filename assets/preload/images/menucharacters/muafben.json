@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M UAFben idle",
+	"image": "M UAFben",
+	"position": [
+		743,
+		375
+	],
+	"flipX": false,
+	"scale": 0.4,
+	"confirm_anim": "M UAFben eyeglow"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "M BENOS Idle",
+	"confirm_anim": "M BENOS eyeglow",
+	"position": [
+		794,
+		353
+	],
+	"scale": 0.34,
+	"flipX": false,
+	"image": "BENOS"
+}

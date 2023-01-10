@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ben.png"><SubTexture name="M BEN Idle0000" x="1667" y="0" width="371" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0001" x="0" y="987" width="526" height="976" frameX="-507" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0002" x="526" y="987" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0003" x="898" y="987" width="415" height="976" frameX="-618" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0004" x="760" y="0" width="536" height="986" frameX="-507" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0005" x="0" y="0" width="383" height="987" frameX="-653" frameY="-77" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0006" x="383" y="0" width="377" height="987" frameX="-653" frameY="-77" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0007" x="1247" y="1963" width="485" height="867" frameX="-591" frameY="-199" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0008" x="1732" y="1963" width="529" height="858" frameX="-571" frameY="-208" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0009" x="743" y="1963" width="504" height="965" frameX="-619" frameY="-100" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0010" x="1313" y="987" width="374" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0011" x="1296" y="0" width="371" height="979" frameX="-662" frameY="-85" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN Idle0012" x="2038" y="0" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0000" x="2038" y="976" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0001" x="2410" y="0" width="371" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0002" x="2781" y="0" width="526" height="976" frameX="-507" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0003" x="2781" y="976" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0004" x="2410" y="976" width="371" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0005" x="0" y="1963" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0006" x="372" y="1963" width="371" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0007" x="2781" y="0" width="526" height="976" frameX="-507" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0008" x="2781" y="976" width="372" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M BEN eyeglow0009" x="2410" y="976" width="371" height="976" frameX="-662" frameY="-88" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

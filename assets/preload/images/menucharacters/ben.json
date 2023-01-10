@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M BEN eyeglow",
+	"idle_anim": "M BEN Idle",
+	"position": [
+		770,
+		374
+	],
+	"scale": 0.39,
+	"image": "ben",
+	"flipX": false
+}

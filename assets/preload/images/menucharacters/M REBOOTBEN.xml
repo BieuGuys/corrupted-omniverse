@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="M REBOOTBEN.png"><SubTexture name="M REBOOTBEN idle0000" x="613" y="0" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN idle0001" x="509" y="932" width="502" height="922" frameX="-557" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN idle0002" x="1011" y="932" width="511" height="920" frameX="-557" frameY="-148" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0000" x="1122" y="0" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0001" x="0" y="0" width="613" height="932" frameX="-453" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0002" x="1631" y="0" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0003" x="0" y="932" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0004" x="0" y="932" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="M REBOOTBEN eyeglow0005" x="0" y="932" width="509" height="923" frameX="-557" frameY="-145" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
