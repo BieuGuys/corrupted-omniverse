@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rustbuck.png"><SubTexture name="rustbuck idle0000" x="0" y="0" width="1377" height="963" frameX="-280" frameY="-111" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rustbuck idle0001" x="2782" y="0" width="1423" height="953" frameX="-257" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rustbuck idle0002" x="1377" y="0" width="1405" height="963" frameX="-266" frameY="-108" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rustbuck idle0003" x="0" y="963" width="1397" height="963" frameX="-270" frameY="-112" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

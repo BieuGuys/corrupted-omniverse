@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Feedback.png"><SubTexture name="Feedback idle0000" x="1941" y="1076" width="647" height="1066" frameX="-455" frameY="-14" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0001" x="0" y="1076" width="649" height="1067" frameX="-455" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0002" x="649" y="1076" width="643" height="1067" frameX="-455" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0003" x="1941" y="1076" width="647" height="1066" frameX="-455" frameY="-14" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0004" x="0" y="1076" width="649" height="1067" frameX="-455" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0005" x="649" y="1076" width="643" height="1067" frameX="-455" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0006" x="2982" y="0" width="631" height="1066" frameX="-458" frameY="-14" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0007" x="1347" y="2143" width="639" height="1033" frameX="-496" frameY="-44" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0008" x="1986" y="2143" width="620" height="1031" frameX="-503" frameY="-45" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0009" x="2982" y="1066" width="606" height="1062" frameX="-496" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0010" x="0" y="2143" width="700" height="1066" frameX="-483" frameY="-14" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0011" x="0" y="3209" width="792" height="1011" frameX="-425" frameY="-69" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0012" x="2606" y="2143" width="648" height="1018" frameX="-455" frameY="-62" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0013" x="700" y="2143" width="647" height="1065" frameX="-455" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback idle0014" x="1292" y="1076" width="649" height="1067" frameX="-455" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing right0000" x="2136" y="3209" width="1353" height="928" frameX="-364" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing right0001" x="792" y="3209" width="1344" height="935" frameX="-373" frameY="-129" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing right0002" x="4726" y="0" width="1355" height="928" frameX="-362" frameY="-136" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing left0000" x="3613" y="1028" width="1102" height="1026" frameX="-128" frameY="-49" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing left0001" x="3613" y="0" width="1113" height="1028" frameX="-128" frameY="-47" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing left0002" x="3613" y="2054" width="1107" height="1026" frameX="-128" frameY="-49" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing down0000" x="4726" y="1700" width="952" height="767" frameX="-278" frameY="-311" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing down0001" x="4726" y="928" width="952" height="772" frameX="-278" frameY="-302" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing down0002" x="4726" y="2467" width="953" height="722" frameX="-277" frameY="-354" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing up0000" x="0" y="0" width="999" height="1076" frameX="-331" frameY="-4" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing up0001" x="1971" y="0" width="1011" height="1068" frameX="-338" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Feedback sing up0002" x="999" y="0" width="972" height="1076" frameX="-350" frameY="-4" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

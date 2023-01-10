@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ben-os_Assests.png"><SubTexture name="ben-os_Assests idle0000" x="4415" y="0" width="507" height="898" frameX="-614" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0001" x="4415" y="0" width="507" height="898" frameX="-614" frameY="-154" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0002" x="7589" y="1719" width="438" height="852" frameX="-656" frameY="-200" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0003" x="7589" y="1719" width="438" height="852" frameX="-656" frameY="-200" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0004" x="2512" y="3142" width="410" height="983" frameX="-680" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0005" x="420" y="3142" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0006" x="3994" y="2002" width="421" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0007" x="0" y="3142" width="420" height="987" frameX="-676" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests idle0008" x="838" y="3142" width="420" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0000" x="1135" y="5863" width="713" height="837" frameX="-396" frameY="-197" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0001" x="1135" y="5863" width="713" height="837" frameX="-396" frameY="-197" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0002" x="7063" y="5010" width="678" height="847" frameX="-415" frameY="-188" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0003" x="6955" y="860" width="650" height="858" frameX="-430" frameY="-177" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0004" x="4922" y="1765" width="659" height="851" frameX="-425" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing left0005" x="4922" y="2616" width="659" height="851" frameX="-425" frameY="-183" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing right0000" x="5612" y="5863" width="569" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing right0001" x="5612" y="5863" width="569" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing right0002" x="7867" y="5863" width="588" height="826" frameX="-721" frameY="-240" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing right0003" x="4408" y="5863" width="602" height="832" frameX="-712" frameY="-234" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing right0004" x="5010" y="5863" width="602" height="832" frameX="-712" frameY="-234" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0000" x="2115" y="1061" width="436" height="1036" frameX="-670" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0001" x="2115" y="1061" width="436" height="1036" frameX="-670" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0002" x="2594" y="2109" width="462" height="1015" frameX="-674" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0003" x="1349" y="2109" width="422" height="1016" frameX="-675" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0004" x="1771" y="2109" width="419" height="1016" frameX="-675" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing up0005" x="2190" y="2109" width="404" height="1016" frameX="-675" frameY="-35" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing down0000" x="5656" y="6707" width="778" height="754" frameX="-420" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing down0001" x="6434" y="6707" width="778" height="754" frameX="-420" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing down0002" x="2810" y="6707" width="759" height="774" frameX="-426" frameY="-297" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing down0003" x="3569" y="6707" width="761" height="773" frameX="-430" frameY="-299" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing down0004" x="4330" y="6707" width="764" height="771" frameX="-430" frameY="-301" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0000" x="1258" y="3142" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0001" x="1676" y="3142" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0002" x="2094" y="3142" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0003" x="3994" y="1012" width="417" height="990" frameX="-676" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0004" x="3994" y="1012" width="417" height="990" frameX="-676" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0005" x="0" y="5863" width="573" height="844" frameX="-736" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0006" x="0" y="5863" width="573" height="844" frameX="-736" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0007" x="6181" y="5863" width="562" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0008" x="6743" y="5863" width="562" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0009" x="573" y="5863" width="562" height="844" frameX="-738" frameY="-223" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0010" x="5094" y="6707" width="562" height="761" frameX="-738" frameY="-306" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0011" x="7605" y="860" width="562" height="856" frameX="-738" frameY="-211" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0012" x="7656" y="2572" width="562" height="852" frameX="-738" frameY="-215" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0013" x="6501" y="5010" width="562" height="850" frameX="-738" frameY="-217" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0014" x="7305" y="5863" width="562" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0015" x="7305" y="5863" width="562" height="831" frameX="-738" frameY="-236" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0016" x="2248" y="6707" width="562" height="821" frameX="-738" frameY="-246" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0017" x="0" y="6707" width="562" height="824" frameX="-738" frameY="-243" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0018" x="3846" y="5863" width="562" height="833" frameX="-738" frameY="-234" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0019" x="3284" y="5863" width="562" height="836" frameX="-738" frameY="-231" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0020" x="0" y="6707" width="562" height="824" frameX="-738" frameY="-243" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0021" x="562" y="6707" width="562" height="824" frameX="-738" frameY="-243" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0022" x="1124" y="6707" width="562" height="823" frameX="-738" frameY="-244" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0023" x="3284" y="5863" width="562" height="836" frameX="-738" frameY="-231" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0024" x="5814" y="5010" width="687" height="852" frameX="-432" frameY="-209" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0025" x="645" y="2109" width="704" height="1032" frameX="-419" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0026" x="0" y="2109" width="645" height="1033" frameX="-452" frameY="-43" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0027" x="1686" y="6707" width="562" height="823" frameX="-738" frameY="-244" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0028" x="645" y="2109" width="704" height="1032" frameX="-419" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0029" x="5814" y="5010" width="687" height="852" frameX="-432" frameY="-209" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0030" x="0" y="2109" width="645" height="1033" frameX="-452" frameY="-43" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0031" x="7589" y="1719" width="438" height="852" frameX="-656" frameY="-200" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0032" x="7589" y="1719" width="438" height="852" frameX="-656" frameY="-200" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0033" x="2512" y="3142" width="410" height="983" frameX="-680" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests hero time0034" x="420" y="3142" width="418" height="986" frameX="-676" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0000" x="1848" y="5863" width="701" height="837" frameX="-427" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0001" x="1848" y="5863" width="701" height="837" frameX="-427" frameY="-222" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0002" x="7741" y="5010" width="671" height="847" frameX="-442" frameY="-213" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0003" x="5606" y="860" width="662" height="859" frameX="-437" frameY="-203" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0004" x="5606" y="1719" width="666" height="853" frameX="-437" frameY="-208" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt left0005" x="6272" y="1719" width="666" height="853" frameX="-437" frameY="-208" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt right0000" x="0" y="4129" width="690" height="881" frameX="-711" frameY="-198" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt right0001" x="0" y="4129" width="690" height="881" frameX="-711" frameY="-198" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt right0002" x="4922" y="0" width="684" height="886" frameX="-686" frameY="-193" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt right0003" x="690" y="4129" width="727" height="880" frameX="-694" frameY="-199" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt right0004" x="1417" y="4129" width="734" height="875" frameX="-697" frameY="-204" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0000" x="1147" y="1061" width="968" height="1040" frameX="-438" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0001" x="3026" y="0" width="968" height="1040" frameX="-438" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0002" x="3056" y="2109" width="918" height="1015" frameX="-435" frameY="-36" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0003" x="3026" y="1040" width="736" height="1038" frameX="-521" frameY="-21" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0004" x="2551" y="1061" width="460" height="1021" frameX="-676" frameY="-30" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt up0005" x="3994" y="0" width="421" height="1012" frameX="-676" frameY="-39" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt down0000" x="5606" y="4278" width="746" height="722" frameX="-443" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt down0001" x="5606" y="4278" width="746" height="722" frameX="-443" frameY="-315" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt down0002" x="7212" y="6707" width="634" height="742" frameX="-428" frameY="-297" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt down0003" x="7846" y="6707" width="631" height="740" frameX="-428" frameY="-299" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests sing alt down0004" x="0" y="7531" width="629" height="739" frameX="-430" frameY="-300" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0000" x="2549" y="5863" width="735" height="837" frameX="-943" frameY="-220" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0001" x="6268" y="860" width="687" height="859" frameX="-960" frameY="-203" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0002" x="4922" y="886" width="666" height="879" frameX="-985" frameY="-182" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0003" x="0" y="1061" width="1147" height="1048" frameX="-989" frameY="-13" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0004" x="2922" y="3142" width="1363" height="915" frameX="-1000" frameY="-146" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0005" x="5606" y="2572" width="2050" height="853" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0006" x="5606" y="3425" width="2568" height="853" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0007" x="0" y="5010" width="2952" height="853" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0008" x="2151" y="4129" width="3062" height="866" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0009" x="0" y="0" width="3026" height="1061" frameX="-1000" frameY="0" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0010" x="5606" y="0" width="2908" height="860" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0011" x="2952" y="5010" width="2862" height="853" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+<SubTexture name="ben-os_Assests grenade toss0012" x="6938" y="1719" width="651" height="853" frameX="-1000" frameY="-208" frameWidth="4096" frameHeight="1080" />
+</TextureAtlas>

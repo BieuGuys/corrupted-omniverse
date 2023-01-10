@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AlienX.png"><SubTexture name="AlienX idle0000" x="483" y="0" width="507" height="1056" frameX="-600" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0001" x="483" y="0" width="507" height="1056" frameX="-600" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0002" x="990" y="0" width="505" height="1056" frameX="-602" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0003" x="480" y="2114" width="497" height="1053" frameX="-608" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0004" x="977" y="2114" width="493" height="1053" frameX="-608" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0005" x="1470" y="2114" width="483" height="1053" frameX="-611" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0006" x="1953" y="2114" width="479" height="1049" frameX="-612" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0007" x="3522" y="0" width="479" height="1048" frameX="-612" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0008" x="2432" y="2114" width="474" height="1049" frameX="-611" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0009" x="2906" y="2114" width="474" height="1049" frameX="-607" frameY="-16" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0010" x="0" y="2114" width="480" height="1055" frameX="-600" frameY="-10" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0011" x="0" y="0" width="483" height="1058" frameX="-597" frameY="-7" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0012" x="1495" y="0" width="494" height="1056" frameX="-593" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0013" x="1989" y="0" width="500" height="1056" frameX="-587" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0014" x="0" y="1058" width="506" height="1056" frameX="-587" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0015" x="506" y="1058" width="508" height="1056" frameX="-588" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0016" x="1014" y="1058" width="510" height="1056" frameX="-592" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0017" x="1524" y="1058" width="515" height="1056" frameX="-592" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0018" x="2489" y="0" width="514" height="1056" frameX="-595" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0019" x="3003" y="0" width="519" height="1056" frameX="-595" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0020" x="3003" y="1056" width="519" height="1056" frameX="-595" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX idle0021" x="2489" y="1056" width="514" height="1056" frameX="-595" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singright0000" x="0" y="3169" width="875" height="1015" frameX="-602" frameY="-38" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singright0001" x="1744" y="3169" width="875" height="1012" frameX="-611" frameY="-41" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singright0002" x="875" y="3169" width="869" height="1015" frameX="-602" frameY="-38" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singup0000" x="3194" y="3169" width="569" height="987" frameX="-574" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singup0001" x="2619" y="3169" width="575" height="988" frameX="-579" frameY="-17" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singup0002" x="3763" y="3169" width="569" height="983" frameX="-570" frameY="-19" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singleft0000" x="4556" y="962" width="619" height="958" frameX="-396" frameY="-100" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singleft0001" x="4556" y="1920" width="613" height="954" frameX="-391" frameY="-106" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singleft0002" x="4556" y="0" width="620" height="962" frameX="-400" frameY="-100" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singdown0000" x="4001" y="0" width="555" height="1017" frameX="-596" frameY="-63" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singdown0001" x="4001" y="2032" width="555" height="1008" frameX="-598" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="AlienX singdown0002" x="4001" y="1017" width="555" height="1015" frameX="-591" frameY="-61" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fourarms-ov.png"><SubTexture name="fourarms-ov idle0000" x="0" y="0" width="866" height="1080" frameX="-477" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0001" x="866" y="0" width="978" height="1080" frameX="-365" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0002" x="1844" y="0" width="877" height="1080" frameX="-478" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0003" x="0" y="1080" width="833" height="1080" frameX="-523" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0004" x="833" y="1080" width="877" height="1080" frameX="-559" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0005" x="0" y="2160" width="973" height="1077" frameX="-573" frameY="-3" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0006" x="1623" y="2160" width="858" height="1067" frameX="-463" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0007" x="2721" y="1080" width="841" height="1079" frameX="-504" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0008" x="1710" y="1080" width="974" height="1080" frameX="-408" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov idle0009" x="2721" y="0" width="857" height="1080" frameX="-486" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing left0000" x="5912" y="0" width="1217" height="920" frameX="-218" frameY="-160" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing left0001" x="1320" y="4268" width="1185" height="930" frameX="-247" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing left0002" x="5912" y="1840" width="1216" height="919" frameX="-232" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing right0000" x="5912" y="2759" width="937" height="894" frameX="-522" frameY="-186" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing right0001" x="2481" y="2160" width="983" height="853" frameX="-522" frameY="-227" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing right0002" x="5912" y="3653" width="999" height="861" frameX="-527" frameY="-219" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing up0000" x="4739" y="1046" width="1169" height="1004" frameX="-237" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing up0001" x="3578" y="1046" width="1161" height="1020" frameX="-239" frameY="-60" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing up0002" x="4718" y="3237" width="1177" height="1000" frameX="-238" frameY="-80" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing down0000" x="1053" y="5203" width="1062" height="434" frameX="-421" frameY="-646" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing down0001" x="5912" y="4514" width="1089" height="478" frameX="-443" frameY="-602" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov sing down0002" x="0" y="5203" width="1053" height="435" frameX="-418" frameY="-644" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov detransform0000" x="0" y="4268" width="1320" height="935" frameX="-160" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov detransform0001" x="973" y="2160" width="650" height="1074" frameX="-471" frameY="-6" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0000" x="3578" y="2066" width="1216" height="1002" frameX="-13" frameY="-78" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0001" x="5912" y="920" width="1216" height="920" frameX="0" frameY="-160" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0002" x="3578" y="0" width="2334" height="1046" frameX="-377" frameY="-34" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0003" x="0" y="3237" width="2355" height="1031" frameX="-391" frameY="-49" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0004" x="2355" y="3237" width="2363" height="1018" frameX="-383" frameY="-60" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0005" x="2505" y="4268" width="2362" height="925" frameX="-383" frameY="-155" frameWidth="2900" frameHeight="1080" />
+<SubTexture name="fourarms-ov clapped0006" x="4794" y="2066" width="691" height="925" frameX="-384" frameY="-155" frameWidth="2900" frameHeight="1080" />
+</TextureAtlas>

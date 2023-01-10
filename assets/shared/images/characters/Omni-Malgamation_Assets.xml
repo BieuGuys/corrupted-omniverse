@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Omni-Malgamation_Assets.png"><SubTexture name="Omni-Malgamation_Assets idle0000" x="0" y="1038" width="858" height="1033" frameX="-444" frameY="-5" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets idle0001" x="858" y="0" width="881" height="1036" frameX="-426" frameY="-2" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets idle0002" x="0" y="0" width="858" height="1038" frameX="-444" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets idle0003" x="1739" y="0" width="881" height="1035" frameX="-429" frameY="-3" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0000" x="0" y="4105" width="1055" height="1010" frameX="-481" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0001" x="1055" y="4105" width="1110" height="1010" frameX="-426" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0002" x="1073" y="3090" width="1082" height="1014" frameX="-440" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0003" x="1755" y="2071" width="1073" height="1017" frameX="-440" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0004" x="3564" y="0" width="1049" height="1017" frameX="-464" frameY="-13" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0005" x="0" y="3090" width="1073" height="1015" frameX="-440" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing right0006" x="3564" y="1017" width="1032" height="1015" frameX="-481" frameY="-15" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0000" x="3564" y="2032" width="873" height="1015" frameX="-188" frameY="-25" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0001" x="2620" y="0" width="944" height="1022" frameX="-181" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0002" x="2639" y="5115" width="886" height="972" frameX="-253" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0003" x="3525" y="5115" width="925" height="948" frameX="-193" frameY="-93" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0004" x="881" y="5115" width="872" height="975" frameX="-210" frameY="-66" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0005" x="858" y="1038" width="952" height="1023" frameX="-187" frameY="-18" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing left0006" x="1753" y="5115" width="886" height="973" frameX="-253" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0000" x="2620" y="1022" width="869" height="1019" frameX="-453" frameY="-8" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0001" x="0" y="2071" width="889" height="1019" frameX="-392" frameY="-8" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0002" x="889" y="2071" width="866" height="1018" frameX="-437" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0003" x="2155" y="3090" width="881" height="1011" frameX="-437" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0004" x="3036" y="3090" width="869" height="1011" frameX="-453" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0005" x="4613" y="0" width="889" height="1011" frameX="-392" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing up0006" x="4613" y="1011" width="866" height="1011" frameX="-437" frameY="-12" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0000" x="3908" y="4105" width="865" height="989" frameX="-443" frameY="-67" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0001" x="0" y="5115" width="881" height="985" frameX="-422" frameY="-71" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0002" x="5502" y="0" width="865" height="988" frameX="-445" frameY="-64" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0003" x="4613" y="2022" width="881" height="1001" frameX="-421" frameY="-45" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0004" x="4613" y="3023" width="869" height="991" frameX="-420" frameY="-55" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0005" x="2165" y="4105" width="878" height="990" frameX="-449" frameY="-56" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Omni-Malgamation_Assets sing down0006" x="3043" y="4105" width="865" height="990" frameX="-445" frameY="-56" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

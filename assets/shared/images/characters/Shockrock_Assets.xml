@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shockrock_Assets.png"><SubTexture name="Shockrock idle0000" x="1253" y="3122" width="1138" height="964" frameX="-399" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0001" x="2391" y="3122" width="1138" height="964" frameX="-399" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0002" x="3529" y="3122" width="1123" height="964" frameX="-414" frameY="-116" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0003" x="4003" y="1001" width="1036" height="998" frameX="-462" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0004" x="4003" y="1999" width="1036" height="998" frameX="-462" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0005" x="2625" y="1017" width="1123" height="1007" frameX="-414" frameY="-73" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0006" x="2625" y="1017" width="1123" height="1007" frameX="-414" frameY="-73" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0007" x="0" y="2121" width="1138" height="1001" frameX="-399" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0008" x="1138" y="2121" width="1079" height="1001" frameX="-420" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0009" x="1381" y="1080" width="1104" height="1003" frameX="-399" frameY="-77" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock idle0010" x="2217" y="2121" width="1123" height="1001" frameX="-414" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0000" x="3082" y="5076" width="1639" height="931" frameX="-24" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0001" x="3082" y="5076" width="1639" height="931" frameX="-24" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0002" x="0" y="6009" width="1488" height="912" frameX="-117" frameY="-164" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0003" x="1541" y="5076" width="1541" height="932" frameX="-112" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0004" x="4721" y="5076" width="1541" height="931" frameX="-112" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing left0005" x="0" y="5076" width="1541" height="933" frameX="-112" frameY="-145" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing right0000" x="0" y="0" width="1295" height="1080" frameX="-568" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing right0001" x="0" y="0" width="1295" height="1080" frameX="-568" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing right0002" x="1295" y="0" width="1330" height="1079" frameX="-551" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing right0003" x="0" y="3122" width="1253" height="993" frameX="-565" frameY="-78" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing right0004" x="4003" y="0" width="1269" height="1001" frameX="-528" frameY="-70" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0000" x="3603" y="4115" width="1197" height="952" frameX="-334" frameY="-128" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0001" x="5272" y="0" width="1197" height="952" frameX="-334" frameY="-128" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0002" x="6469" y="0" width="1204" height="927" frameX="-337" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0003" x="0" y="4115" width="1203" height="961" frameX="-338" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0004" x="1203" y="4115" width="1203" height="961" frameX="-338" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing down0005" x="2406" y="4115" width="1197" height="955" frameX="-338" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing up0000" x="0" y="1080" width="1381" height="1041" frameX="-226" frameY="-33" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing up0001" x="0" y="1080" width="1381" height="1041" frameX="-226" frameY="-33" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing up0002" x="2625" y="0" width="1378" height="1017" frameX="-229" frameY="-57" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing up0003" x="1488" y="6009" width="1227" height="909" frameX="-291" frameY="-161" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Shockrock sing up0004" x="2715" y="6009" width="1227" height="904" frameX="-292" frameY="-166" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

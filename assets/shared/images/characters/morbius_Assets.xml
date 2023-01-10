@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="morbius_Assets.png"><SubTexture name="morbius idle0000" x="0" y="3455" width="997" height="751" frameX="-390" frameY="-262" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0001" x="0" y="3455" width="997" height="751" frameX="-390" frameY="-262" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0002" x="4088" y="0" width="957" height="773" frameX="-398" frameY="-202" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0003" x="4088" y="0" width="957" height="773" frameX="-398" frameY="-202" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0004" x="853" y="1826" width="808" height="825" frameX="-485" frameY="-146" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0005" x="1527" y="2655" width="820" height="795" frameX="-479" frameY="-168" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0006" x="2347" y="2655" width="834" height="788" frameX="-472" frameY="-175" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0007" x="2347" y="2655" width="834" height="788" frameX="-472" frameY="-175" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius idle0008" x="2347" y="2655" width="834" height="788" frameX="-472" frameY="-175" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing right0000" x="869" y="0" width="973" height="889" frameX="-472" frameY="-127" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing right0001" x="893" y="942" width="909" height="846" frameX="-498" frameY="-138" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing right0002" x="3251" y="0" width="837" height="811" frameX="-505" frameY="-167" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing right0003" x="0" y="1826" width="853" height="829" frameX="-497" frameY="-158" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing left0000" x="0" y="2655" width="1527" height="800" frameX="-68" frameY="-163" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing left0001" x="1842" y="0" width="1409" height="864" frameX="-127" frameY="-131" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing left0002" x="1661" y="1826" width="1032" height="818" frameX="-334" frameY="-173" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing left0003" x="1842" y="864" width="1063" height="859" frameX="-322" frameY="-169" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing up0000" x="0" y="0" width="869" height="942" frameX="-440" frameY="-79" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing up0001" x="0" y="942" width="893" height="884" frameX="-428" frameY="-108" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing up0002" x="3251" y="811" width="830" height="810" frameX="-468" frameY="-169" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing up0003" x="3251" y="1621" width="810" height="804" frameX="-490" frameY="-173" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing down0000" x="3038" y="3455" width="1116" height="454" frameX="-363" frameY="-525" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing down0001" x="1964" y="3455" width="1074" height="467" frameX="-384" frameY="-515" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing down0002" x="997" y="3455" width="967" height="729" frameX="-438" frameY="-287" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="morbius sing down0003" x="4088" y="773" width="923" height="705" frameX="-460" frameY="-299" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
