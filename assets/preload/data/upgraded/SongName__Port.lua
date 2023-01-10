@@ -1,0 +1,5 @@
+function onCreate()
+makeLuaText('watermark', songName .. " | Composed by DCLC Music ", 0, 460, 50); -- You can edit the created by Prisma Text just dont change anything else
+    setTextSize('watermark', 15);
+    addLuaText('watermark');
+end
