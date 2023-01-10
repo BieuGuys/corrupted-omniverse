@@ -1,0 +1,144 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BAP bOP!"
+		},
+		{
+			"speed": 0.095,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh no.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's him."
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "dad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "#############A#E#EADAEEEAAssAAAAA%"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "..."
+		},
+		{
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "BAAAEEEEp!"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "#-#------###########-#---#"
+		},
+		{
+			"speed": 0.07,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop! Bop!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Omnitrix! Decouple! Command code,"
+		},
+		{
+			"speed": 0.085,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "0, 0, 0,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "release coupling, 0!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That function is not aVa--#########"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh oh."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hit him again!"
+		},
+		{
+			"speed": 0.00500000000000001,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "##############LRLRLRLR#LEN#T####E#R####"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Omnitrix! Self-destruct in 2 minutes and 40 seconds!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Command code, 0, 0, 0, destruct, 0!"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "De--str-ruct s--s-equence completed aa-nd eng--ag-ed--."
+		},
+		{
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Detonation in t-minus 2 minutes and\\n 40 seconds."
+		},
+		{
+			"speed": 0.06,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That should be enough to destroy both the Omnitrix and Ben. But right now we have to hold him off!"
+		}
+	]
+}
