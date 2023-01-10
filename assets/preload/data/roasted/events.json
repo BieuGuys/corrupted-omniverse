@@ -1,0 +1,1063 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"lyrics",
+						"COVER BY HAMMERHEAD",
+						""
+					]
+				]
+			],
+			[
+				75,
+				[
+					[
+						"Image Flash",
+						"frimple",
+						"1.5"
+					]
+				]
+			],
+			[
+				1800,
+				[
+					[
+						"lyrics",
+						"",
+						""
+					]
+				]
+			],
+			[
+				2100,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				2400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				72750,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				78900,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.1",
+						"0"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				136875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				136950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				137100,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				137250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				137325,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				137550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				137700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				137775,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				137850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				138075,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				138150,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				138225,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				138300,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				138450,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				138525,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				138600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				138675,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				138750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				138900,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				138975,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				139050,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				139125,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				139275,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				139350,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				139425,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				139500,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				139575,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				139650,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				139725,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				139875,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				139950,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				140025,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				140100,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				140175,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				140250,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				140325,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				140475,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				140550,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				140625,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				140700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				140775,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				140850,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				140925,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				141075,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				141150,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				141225,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"dad"
+					]
+				]
+			],
+			[
+				141300,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"dad"
+					]
+				]
+			],
+			[
+				141375,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				141450,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				141525,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"dad"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				141750,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				141900,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				142050,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				142200,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				142350,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				142650,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				142950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				143100,
+				[
+					[
+						"Play Animation",
+						"singRIGHT",
+						"gf"
+					]
+				]
+			],
+			[
+				143250,
+				[
+					[
+						"Play Animation",
+						"singLEFT",
+						"gf"
+					]
+				]
+			],
+			[
+				143400,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				143550,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				143700,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				]
+			],
+			[
+				143850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"gf"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Play Animation",
+						"singDOWN",
+						"gf"
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				183150,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				184800,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				186000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.6",
+						""
+					]
+				]
+			]
+		]
+	}
+}
