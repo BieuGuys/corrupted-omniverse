@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "morbius idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "morbius sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "morbius sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "morbius sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "morbius sing up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/morbius_Assets",
+	"position": [
+		-530,
+		-120
+	],
+	"healthicon": "jared",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		140,
+		125
+	],
+	"camera_position": [
+		470,
+		310
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

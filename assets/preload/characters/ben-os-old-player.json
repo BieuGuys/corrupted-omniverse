@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "benOS idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "benOS sing DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "benOS sing UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "benOS sing RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "benOS sing LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/benOS-old_Assets",
+	"position": [
+		-640,
+		-170
+	],
+	"healthicon": "icon-ben-os-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		211,
+		255,
+		0
+	],
+	"camera_position": [
+		-250,
+		220
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

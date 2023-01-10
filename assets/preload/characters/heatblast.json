@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "heatblast-ov sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				200
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "heatblast-ov sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "heatblast-ov sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "heatblast-ov sing right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "heatblast-ov idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "detransform",
+			"fps": 19,
+			"name": "heatblast-ov_Assets heatblast-ov detransform",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-111,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "burn",
+			"indices": [],
+			"name": "heatblast-ov_Assets heatblast-ov burn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/heatblast-ov_Assets",
+	"position": [
+		-620,
+		-80
+	],
+	"healthicon": "heatblast",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		81,
+		0
+	],
+	"camera_position": [
+		81,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.85
+}

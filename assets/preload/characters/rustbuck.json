@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "rustbuck idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rustbuck",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		0
+	],
+	"camera_position": [
+		-540,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

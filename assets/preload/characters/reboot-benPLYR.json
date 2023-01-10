@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-262,
+				-280
+			],
+			"anim": "firstDeath",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets died",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-262,
+				-280
+			],
+			"anim": "deathLoop",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets died",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-262,
+				-280
+			],
+			"anim": "deathConfirm",
+			"fps": 19,
+			"name": "Reboot-Ben_Assets died",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Reboot-Ben_Assets",
+	"position": [
+		-550,
+		-170
+	],
+	"healthicon": "ben-reboot",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		103
+	],
+	"camera_position": [
+		-310,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

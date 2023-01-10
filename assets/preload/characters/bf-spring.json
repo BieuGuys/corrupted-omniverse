@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-springdesign sing right"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf-springdesign sing down"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-springdesign sing up"
+		},
+		{
+			"offsets": [
+				0,
+				99
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bf-springdesign miss sing left"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bf-springdesign miss sing down"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bf-springdesign miss sing up"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bf-springdesign miss sing right"
+		},
+		{
+			"offsets": [
+				-5,
+				87
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "dodge",
+			"indices": [],
+			"name": "bf-springdesign dodge"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				89
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "bf-springdesign sing left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-springdesign_Assets idle"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "bf-springdesign_Assets bf cracks loop"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "bf-springdesign_Assets bf cracks confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				89
+			],
+			"anim": "firstDeath",
+			"fps": 19,
+			"name": "bf-springdesign_Assets bf cracks0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-springdesign_Assets",
+	"position": [
+		-520,
+		90
+	],
+	"healthicon": "bfspring",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		195
+	],
+	"camera_position": [
+		-400,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

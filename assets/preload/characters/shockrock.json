@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "Shockrock idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Shockrock sing left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Shockrock sing down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Shockrock sing up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Shockrock sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Shockrock_Assets",
+	"position": [
+		-520,
+		-330
+	],
+	"healthicon": "shockrock",
+	"flip_x": false,
+	"healthbar_colors": [
+		4,
+		2,
+		4
+	],
+	"camera_position": [
+		10,
+		60
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

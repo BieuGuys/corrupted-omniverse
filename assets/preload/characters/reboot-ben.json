@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Reboot-Ben_Assets idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Reboot-Ben_Assets sing left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Reboot-Ben_Assets sing down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Reboot-Ben_Assets sing up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Reboot-Ben_Assets sing right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "hero time",
+			"loop": false,
+			"name": "Reboot-Ben_Assets hero time"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Reboot-Ben_Assets",
+	"position": [
+		-550,
+		-170
+	],
+	"healthicon": "ben-reboot",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		103
+	],
+	"camera_position": [
+		350,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

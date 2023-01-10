@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "burn-death_Assets death first"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "deathConfirm",
+			"loop": false,
+			"name": "burn-death_Assets death confirm"
+		},
+		{
+			"offsets": [
+				0,
+				89
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "deathLoop",
+			"loop": true,
+			"name": "burn-death_Assets death loop"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/burn-death_Assets",
+	"position": [
+		-520,
+		90
+	],
+	"healthicon": "bfspring",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		195
+	],
+	"camera_position": [
+		-400,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

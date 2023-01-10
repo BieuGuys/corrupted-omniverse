@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				20,
+				211
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ben-OV sing left"
+		},
+		{
+			"offsets": [
+				-2,
+				193
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ben-OV sing down"
+		},
+		{
+			"offsets": [
+				0,
+				210
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ben-OV sing up"
+		},
+		{
+			"offsets": [
+				-30,
+				193
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ben-OV sing right"
+		},
+		{
+			"offsets": [
+				20,
+				211
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singLEFTloop",
+			"indices": [],
+			"name": "Ben-OV sing left"
+		},
+		{
+			"offsets": [
+				-2,
+				193
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singDOWNloop",
+			"indices": [],
+			"name": "Ben-OV sing down"
+		},
+		{
+			"offsets": [
+				-30,
+				193
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singRIGHTloop",
+			"indices": [],
+			"name": "Ben-OV sing right"
+		},
+		{
+			"offsets": [
+				0,
+				210
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singUPloop",
+			"indices": [],
+			"name": "Ben-OV sing up"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ben-OV Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "transform0",
+			"fps": 19,
+			"name": "Ben-OV_Assets transform0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "transform2",
+			"fps": 19,
+			"name": "Ben-OV_Assets transform2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ben-OV-old_Assets",
+	"position": [
+		-620,
+		0
+	],
+	"healthicon": "ben-ov(old)",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		255,
+		0
+	],
+	"camera_position": [
+		230,
+		-80
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

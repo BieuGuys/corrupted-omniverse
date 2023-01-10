@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF-alt_Assets idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF-alt_Assets sing down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF-alt_Assets sing up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF-alt_Assets sing right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF-alt_Assets sing left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 19,
+			"name": "BF-alt_Assets miss sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 19,
+			"name": "BF-alt_Assets miss sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 19,
+			"name": "BF-alt_Assets miss sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 19,
+			"name": "BF-alt_Assets miss sing down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BF-altDARK_Assets",
+	"position": [
+		-640,
+		0
+	],
+	"healthicon": "bf-alt",
+	"flip_x": true,
+	"healthbar_colors": [
+		86,
+		173,
+		196
+	],
+	"camera_position": [
+		-480,
+		290
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 0.5
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "uafben_Assets idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "uafben_Assets sing LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "uafben_Assets sing DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "uafben_Assets sing UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "uafben_Assets sing RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 19,
+			"anim": "laugh",
+			"loop": false,
+			"name": "uafben_Assets laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/uafben_Assets",
+	"position": [
+		-510,
+		-250
+	],
+	"healthicon": "uafben1",
+	"flip_x": false,
+	"healthbar_colors": [
+		41,
+		149,
+		40
+	],
+	"camera_position": [
+		-90,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

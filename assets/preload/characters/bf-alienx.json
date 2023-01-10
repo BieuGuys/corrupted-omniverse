@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "BFcelestialsapien_Assets idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "BFcelestialsapien_Assets sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "BFcelestialsapien_Assets sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "BFcelestialsapien_Assets sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "BFcelestialsapien_Assets sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFcelestialsapien_Assets",
+	"position": [
+		-250,
+		-270
+	],
+	"healthicon": "bf-alienx",
+	"flip_x": true,
+	"healthbar_colors": [
+		160,
+		255,
+		255
+	],
+	"camera_position": [
+		-150,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

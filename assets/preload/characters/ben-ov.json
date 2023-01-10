@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "ben_OV idle"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "transform0",
+			"indices": [],
+			"name": "ben_OV transform0"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ben_OV singleft"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ben_OV singdown"
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ben_OV singup"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				200
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ben_OV singright",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				200
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "transform2",
+			"indices": [],
+			"name": "ben_OV_Assets transform"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ben_OV_Assets",
+	"position": [
+		-620,
+		-30
+	],
+	"healthicon": "ben-ov",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		255,
+		0
+	],
+	"camera_position": [
+		220,
+		-60
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

@@ -1,0 +1,159 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "Omni-Malgamation_Assets sing left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singLEFT-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "Omni-Malgamation_Assets sing left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "Omni-Malgamation_Assets sing right",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "Omni-Malgamation_Assets sing up",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 19,
+			"name": "Omni-Malgamation_Assets sing up",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "Omni-Malgamation_Assets sing down",
+			"indices": [
+				1,
+				2,
+				3,
+				4
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 19,
+			"name": "Omni-Malgamation_Assets sing down",
+			"indices": [
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				5,
+				6,
+				7
+			],
+			"name": "Omni-Malgamation_Assets sing right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 19,
+			"anim": "idle",
+			"indices": [],
+			"name": "Omni-Malgamation_Assets idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Omni-Malgamation_Assets",
+	"position": [
+		-390,
+		140
+	],
+	"healthicon": "omnimal",
+	"flip_x": false,
+	"healthbar_colors": [
+		135,
+		0,
+		100
+	],
+	"camera_position": [
+		-80,
+		-30
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

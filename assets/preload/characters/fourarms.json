@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fourarms-ov sing down"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fourarms-ov sing up"
+		},
+		{
+			"offsets": [
+				10,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fourarms-ov sing left"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fourarms-ov sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "fourarms-ov idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "detransform",
+			"fps": 19,
+			"name": "fourarms-ov detransform",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-240,
+				10
+			],
+			"anim": "clapped",
+			"fps": 19,
+			"name": "fourarms-ov clapped",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fourarms-ov_Assets",
+	"position": [
+		-620,
+		-420
+	],
+	"healthicon": "fourarms",
+	"flip_x": false,
+	"healthbar_colors": [
+		189,
+		0,
+		85
+	],
+	"camera_position": [
+		20,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
